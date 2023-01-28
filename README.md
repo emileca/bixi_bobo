@@ -4,7 +4,8 @@
 
 ### Explorer la gentrification à Montréal à l'aide des clichés "bobos"
 
-***Par Yann Audin, Sara-Maude Bergeron, Émile Caron, Yanet Hernández.***
+***Par Yann Audin, Sara-Maude Bergeron, Émile Caron, Yanet Hernández.*** 
+Université de Montréal
 
 Le développement des stations de Bixi à Montréal ne fut pas un processus neutre, divers facteurs culturels et financiers guident l'installation des bornes de vélos locatifs. Pour explorer les biais et les pressions économiques qui dictent la présence de Bixi, caractériser les quartiers de Montréal, et envisager les enjeux de gentrification de la ville de Montréal, nous proposons une visualisation de certains marqueurs de richesses (financières et culturelles) et de pauvreté (financière). 
 
