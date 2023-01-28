@@ -1,6 +1,8 @@
-# Stations **Bixi**, bon pain - mauvais pain, et lieux culturels
+# Le Projet *Bixi-bobos*
 
-## Explorer la gentrification à Montréal à l'aide des clichés "bobos"
+## Stations **Bixi**, bon pain - mauvais pain, et lieux culturels
+
+### Explorer la gentrification à Montréal à l'aide des clichés "bobos"
 
 ***Par Yann Audin, Sara-Maude Bergeron, Émile Caron, Yanet Hernández.***
 
